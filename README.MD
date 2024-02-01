@@ -5,13 +5,15 @@ Hello! Welcome to my dotfiles! I still have to clean this a bit and also write a
 It is running on EndeavourOS, if that info makes a change.
 
 #### To Do!
-- :x: Write the needed dependencies.
-- :x: Find and add .oh my bash settings.
-- :white_check_mark: Find and add Catppuccin Stylesheet files
-- :x: Find and add Mozilla settings
+
+- :red_circle: Write the needed dependencies.
+- :red_circle: Find and add .oh my bash settings.
+- :green_circle: Find and add Catppuccin Stylesheet files
+- :red_circle: Find and add Mozilla settings
 
 #### Screenshots
-Here are some screenshots about how the system looks. 
+
+Here are some screenshots about how the system looks.
 
 ![screenshot-1](https://github.com/astonish-g/i3-nord-dotfiles/blob/main/sources/images/1.png)
 ![screenshot-2](https://github.com/astonish-g/i3-nord-dotfiles/blob/main/sources/images/2.png)
