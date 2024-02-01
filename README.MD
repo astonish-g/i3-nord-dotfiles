@@ -7,7 +7,7 @@ It is running on EndeavourOS, if that info makes a change.
 #### To Do!
 - :x: Write the needed dependencies.
 - :x: Find and add .oh my bash settings.
-- :white_check_mark Find and add Catppuccin Stylesheet files
+- :white_check_mark: Find and add Catppuccin Stylesheet files
 - :x: Find and add Mozilla settings
 
 #### Screenshots
