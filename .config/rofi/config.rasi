@@ -1,0 +1,48 @@
+@theme "/home/nordi3/.config/rofi/themes/rounded-nord-dark.rasi"
+
+/* bg4: color of the background */
+/* bg5: color of the accent color */
+/* bg6: Entry/input bar background */
+/* b1:  window border color*/
+/* fg4:  Text colour for the search entry*/
+
+* {
+    bg4:    #2E3440AA;
+    bg5:    #8898D0F2;
+    bg6:    #93A4CB33;
+    br1:    #A4B3E8F2;
+    fg4:    #D8DEE980; 
+}
+
+window {
+    background-color: @bg4;
+    border: 2px;
+    border-color: @br1;
+}
+
+inputbar {
+    background-color: @bg6;  
+    border-color: @bg5;
+}
+
+listview {
+    
+    lines: 8;
+    fixed-height: true;
+}
+
+element normal active {
+    text-color: @bg5;
+}
+
+element selected normal, element selected active {
+    background-color:   @bg5;
+}
+
+prompt { 
+    enabled: false; 
+}
+
+entry {
+    placeholder-color: @fg4;
+}
