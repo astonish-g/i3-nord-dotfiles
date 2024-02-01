@@ -6,10 +6,10 @@ It is running on EndeavourOS, if that info makes a change.
 
 #### To Do!
 
-- :red_circle: Write the needed dependencies.
-- :red_circle: Find and add .oh my bash settings.
-- :green_circle: Find and add Catppuccin Stylesheet files
-- :red_circle: Find and add Mozilla settings
+- [ ] Write the needed dependencies.
+- [ ] Find and add .oh my bash settings.
+- [x] Find and add Catppuccin Stylesheet files
+- [ ] Find and add Mozilla settings
 
 #### Screenshots
 
