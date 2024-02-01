@@ -5,10 +5,10 @@ Hello! Welcome to my dotfiles! I still have to clean this a bit and also write a
 It is running on EndeavourOS, if that info makes a change.
 
 #### To Do!
-- [ ] Write the needed dependencies.
-- [ ] Find and add .oh my bash settings.
-- [x] Find and add Catppuccin Stylesheet files
-- [ ] Find and add Mozilla settings
+- :x: Write the needed dependencies.
+- :x: Find and add .oh my bash settings.
+- :white_check_mark Find and add Catppuccin Stylesheet files
+- :x: Find and add Mozilla settings
 
 #### Screenshots
 Here are some screenshots about how the system looks. 
