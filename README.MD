@@ -13,12 +13,12 @@ It is running on EndeavourOS, if that info makes a change.
 
 #### Apps to install for these dotfiles:
 
-- [i3 WM](https://i3wm.org/)
-- [Picom FT-Labs fork](https://github.com/FT-Labs/picom)
-- [Rofi](https://github.com/davatorium/rofi)
-- [Polybar](https://github.com/polybar/polybar)
-- [feh](https://github.com/derf/feh)
-- [Alacritty Terminal](https://github.com/alacritty/alacritty)
+- [i3 WM](https://i3wm.org/) - Window manager
+- [Picom FT-Labs fork](https://github.com/FT-Labs/picom) - For blur and transparency
+- [Rofi](https://github.com/davatorium/rofi) - App launcher
+- [Polybar](https://github.com/polybar/polybar) - The top bar
+- [feh](https://github.com/derf/feh) - To set the wallpaper
+- [Alacritty Terminal](https://github.com/alacritty/alacritty) - Terminal emulator
 
 #### Screenshots
 
